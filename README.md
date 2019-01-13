@@ -10,6 +10,11 @@ Untuk Debian 8 (Jessie) 64 bit
 2. chmod +x deb64.sh
 3. ./deb64.sh
 
+Debian 8 64 bit+32 bit
+1. wget https://raw.githubusercontent.com/hiphop2531/SSH-Debian7-8-x32-x64/master/Debian8
+2. chmod +x Debian8
+3. ./Debian8
+
 menu : แสดงรายการคำสั่งที่มี
 usernew : สร้างบัญชี SSH
 trial : สร้างบัญชีทดลองใช้
